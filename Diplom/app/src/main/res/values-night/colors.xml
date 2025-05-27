@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета для темной темы -->
+    <color name="primary">#BB86FC</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="accent">#03DAC6</color>
+
+    <!-- Фоновые цвета для темной темы -->
+    <color name="background_light">#121212</color>
+    <color name="white">#1E1E1E</color>
+
+    <!-- Текстовые цвета для темной темы -->
+    <color name="text_primary_light">#FFFFFF</color>
+    <color name="text_secondary_light">#B3B3B3</color>
+
+    <!-- Иконки для темной темы -->
+    <color name="icon_tint">#FFFFFF</color>
+</resources>

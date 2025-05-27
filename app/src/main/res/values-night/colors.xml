@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета для темной темы -->
+    <color name="primary">#BB86FC</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="accent">#03DAC6</color>
+
+    <!-- Фоновые цвета для темной темы -->
+    <color name="background_light">#121212</color>
+    <color name="white">#1E1E1E</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="background_white">#1E1E1E</color>
+    <color name="surface_light">#1E1E1E</color>
+    <color name="surface_dark">#1E1E1E</color>
+
+    <!-- Текстовые цвета для темной темы -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_hint">#757575</color>
+    <color name="text_primary_light">#FFFFFF</color>
+    <color name="text_secondary_light">#B3B3B3</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#B3B3B3</color>
+
+    <!-- Статусные цвета -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FF9800</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Цвета для датчиков температуры -->
+    <color name="cold_temperature">#2196F3</color>
+    <color name="normal_temperature">#4CAF50</color>
+    <color name="hot_temperature">#F44336</color>
+
+    <!-- Цвета для датчиков влажности -->
+    <color name="low_humidity">#FF9800</color>
+    <color name="normal_humidity">#4CAF50</color>
+    <color name="high_humidity">#2196F3</color>
+
+    <!-- Статусы -->
+    <color name="status_home">#4CAF50</color>
+    <color name="status_away">#FF9800</color>
+
+    <!-- Иконки для темной темы -->
+    <color name="icon_tint">#FFFFFF</color>
+
+    <!-- Навигация -->
+    <color name="nav_selected">#BB86FC</color>
+    <color name="nav_unselected">#757575</color>
+
+    <!-- Прозрачности -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#80FFFFFF</color>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета темы -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FFC107</color>
+
+    <!-- Фоновые цвета -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+
+    <!-- Текстовые цвета -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Текстовые цвета для светлой темы -->
+    <color name="text_primary_light">#212121</color>
+    <color name="text_secondary_light">#757575</color>
+
+    <!-- Текстовые цвета для темной темы -->
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#B3B3B3</color>
+
+    <!-- Статусные цвета -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FF9800</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Цвета для датчиков температуры -->
+    <color name="cold_temperature">#2196F3</color>    <!-- Синий для холодной -->
+    <color name="normal_temperature">#4CAF50</color>  <!-- Зеленый для нормальной -->
+    <color name="hot_temperature">#F44336</color>     <!-- Красный для горячей -->
+
+    <!-- Цвета для датчиков влажности -->
+    <color name="low_humidity">#FF9800</color>        <!-- Оранжевый для низкой -->
+    <color name="normal_humidity">#4CAF50</color>     <!-- Зеленый для нормальной -->
+    <color name="high_humidity">#2196F3</color>       <!-- Синий для высокой -->
+
+    <!-- Прозрачности -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#80FFFFFF</color>
+
+    <!-- Статусы -->
+    <color name="status_home">#4CAF50</color>
+    <color name="status_away">#FF9800</color>
+
+    <!-- Иконки -->
+    <color name="icon_tint">#616161</color>
+
+    <!-- Навигация -->
+    <color name="nav_selected">#2196F3</color>
+    <color name="nav_unselected">#9E9E9E</color>
+
+</resources>
+

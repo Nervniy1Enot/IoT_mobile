@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:paddingVertical="4dp"
+    android:background="?android:attr/selectableItemBackground">
+
+    <TextView
+        android:id="@+id/socket_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Розетка #1"
+        android:textSize="14sp"
+        android:textColor="?android:attr/textColorPrimary"
+        android:padding="8dp"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="✏️"
+        android:textSize="12sp"
+        android:layout_marginEnd="8dp"
+        android:alpha="0.6" />
+
+    <Switch
+        android:id="@+id/socket_switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="48dp"
+        android:minHeight="48dp" />
+
+</LinearLayout>
